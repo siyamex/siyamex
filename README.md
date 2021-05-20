@@ -7,10 +7,10 @@ I'm A personal blogger. Developer, Animator, Editor, Photographer . Passionate a
 
 :sunglasses: I'm **Mohamed Shiyam**, .  
 :desktop_computer: I'm aspiring to a career in **IT**.  
-:triangular_ruler: Passionate about ** trying things free**.  
+:triangular_ruler: Passionate about **trying things free**.  
 :night_with_stars: I want to create **3D digital art and immersive experience**.  
 :briefcase: I use [VScode][2] :VS: & [chrome][3] .  
-:gift_heart: I'm a [**Developer, Animator, Editor, Photographer **][4].
+:gift_heart: I'm a [**Developer, Animator, Editor, Photographer**][4].
 
 :sparkles: My homepage: **<https://siyamex.github.io>**  
 :sparkles: Web Site: **<https://siyamex.com>**  
