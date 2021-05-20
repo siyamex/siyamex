@@ -1,16 +1,51 @@
-### Hi there 👋
+# Hi there :wave:
+I'm A personal blogger. Developer, Animator, Editor, Photographer . Passionate about trying things free..
 
-<!--
-**siyamex/siyamex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.gnu.org">
+	<img width=320 align="right" src="img/siyamex.png">
+</a>
 
-Here are some ideas to get you started:
+:sunglasses: I'm **Mohamed Shiyam**, .  
+:desktop_computer: I'm aspiring to a career in **IT**.  
+:triangular_ruler: Passionate about ** trying things free**.  
+:night_with_stars: I want to create **3D digital art and immersive experience**.  
+:briefcase: I use [VScode][2] :VS: & [chrome][3] .  
+:gift_heart: I'm a [**Developer, Animator, Editor, Photographer **][4].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:sparkles: My homepage: **<https://siyamex.github.io>**  
+:sparkles: Web Site: **<https://siyamex.com>**  
+:sparkles: Free SMS: **<https://sms.siyamex.com>**  
+:sparkles: Photo Radheefu: **<https://radheef.siyamex.com>**
+
+[1]: https://mnu.edu.mv
+[2]: https://code.visualstudio.com
+[3]: https://https://www.google.com/chrome
+[4]: https://siyamex.com
+[5]: https://vecma-org.github.io/lnagb.js
+[6]: https://github.com/siyamex
+
+<a href="https://github.com/siyamex">
+	<img alt="My GitHub profile" src="img/icons/github.png">
+</a>
+<a href="https://www.instagram.com/siyamex_">
+	<img alt="My Instagram profile" src="img/icons/instagram.png">
+</a>
+<a href="https://unsplash.com/@siyamex">
+	<img alt="My Unsplash profile" src="img/icons/unsplash.png">
+</a>
+<a href="https://dribbble.com/siyamex">
+	<img alt="My Dribbble profile" src="img/icons/dribbble.png">
+</a>
+<a href="https://medium.com/@siyamex">
+	<img alt="My Medium profile" src="img/icons/medium.png">
+</a>
+
+<p></p>
+
+
+
+[github]: https://github.com/siyamex
+[dribbble]: https://dribbble.com/siyamex
+[unsplash]: https://unsplash.com/@siyamex
+[medium]: https://medium.com/@siyamex
+[instagram]: https://www.instagram.com/siyamex_
