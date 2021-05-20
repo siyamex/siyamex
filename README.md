@@ -1,7 +1,7 @@
 # Hi there :wave:
 I'm A personal blogger. Developer, Animator, Editor, Photographer . Passionate about trying things free..
 
-<a href="https://www.gnu.org">
+<a href="https://siyamex.com">
 	<img width=320 align="right" src="img/siyamex.png">
 </a>
 
@@ -16,12 +16,12 @@ I'm A personal blogger. Developer, Animator, Editor, Photographer . Passionate a
 :sparkles: Web Site: **<https://siyamex.com>**  
 :sparkles: Free SMS: **<https://sms.siyamex.com>**  
 :sparkles: Photo Radheefu: **<https://radheef.siyamex.com>**
+:sparkles: Fb Leaks: **<https://leaks.siyamex.com>**
 
 [1]: https://mnu.edu.mv
 [2]: https://code.visualstudio.com
 [3]: https://https://www.google.com/chrome
 [4]: https://siyamex.com
-[5]: https://vecma-org.github.io/lnagb.js
 [6]: https://github.com/siyamex
 
 <a href="https://github.com/siyamex">
