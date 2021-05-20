@@ -15,8 +15,8 @@ I'm A personal blogger. Developer, Animator, Editor, Photographer . Passionate a
 :sparkles: My homepage: **<https://siyamex.github.io>**  
 :sparkles: Web Site: **<https://siyamex.com>**  
 :sparkles: Free SMS: **<https://sms.siyamex.com>**  
-:sparkles: Photo Radheefu: **<https://radheef.siyamex.com>**
-:sparkles: Fb Leaks: **<https://leaks.siyamex.com>**
+:sparkles: Photo Radheefu: **<https://radheef.siyamex.com>** 
+:sparkles: Fb Leaks: **<https://leaks.siyamex.com>** 
 
 [1]: https://mnu.edu.mv
 [2]: https://code.visualstudio.com
